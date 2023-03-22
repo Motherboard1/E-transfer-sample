@@ -1,0 +1,41 @@
+#!/bin/bash
+#Author: Wisdom christian
+#Modification: 22/03/2023
+
+
+##.....This script is for fake transfar alart
+
+echo "You are about to make a transfar to your client Mr John"
+
+
+sleep 4
+
+echo "what is the name of your bank"
+read bankcont
+
+echo nice $bankcont
+
+sleep 4
+
+
+echo "what is your name ?"
+read namecont
+
+sleep 4
+
+echo "what is your account number"
+read namecont
+
+sleep 3
+
+echo please confirm if this is correct $namecont
+
+sleep 4
+
+echo "initiallizing transcatiions"
+
+
+ echo "Transcation successful"
+ sleep 3
+
+ echo "50,0000000 credit alart"
